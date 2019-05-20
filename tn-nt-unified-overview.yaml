@@ -10396,6 +10396,19 @@ presets:
         - 49
     - - groups
       - - 358
+- - '<color=0xFFFFFF66>✥ Target: (Heavy) Interdictor</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 894
+      - - 541
 shipLabelOrder:
 - alliance
 - corporation
