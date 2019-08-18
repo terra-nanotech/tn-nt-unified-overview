@@ -1,5 +1,9 @@
 # Changelog
 
+## In Progress
+### Changed
+- Renamed ``Dictors`` to ``Interdictors``
+
 ## 2019-06-02
 ### Added
 - Heavy Assault Cruiser to target group
@@ -10,7 +14,7 @@
 - Default presets for tabs
 
 ## 2019-04-07
-### Ahanged
+### Changed
 - Complete overhaul of all presets
 
 ## 2019-01-25

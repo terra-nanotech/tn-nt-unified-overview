@@ -108,7 +108,7 @@ overviewColumns:
 - TYPE
 - VELOCITY
 presets:
-- - '<color=0xFF66CCFF>✪ Friendly: Dictors</color>'
+- - '<color=0xFF66CCFF>✪ Friendly: Interdictors</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -6346,7 +6346,7 @@ presets:
         - 2017
         - 2020
         - 4028
-- - '<color=0xFFFFFF66>✥ Target: Dictors</color>'
+- - '<color=0xFFFFFF66>✥ Target: Interdictors</color>'
   - - - filteredStates
       - - 11
         - 12
