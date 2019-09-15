@@ -1,9 +1,11 @@
 # Changelog
 
 ## 2019-09-16
+### Added
+- Ores from Triglavian PvE site (Conduits) added to appropriate preset
+
 ### Changed
 - Renamed ``Dictors`` to ``Interdictors``
-- Ores from Triglavian PvE site (Conduits) added to appropriate preset
 
 ## 2019-06-02
 ### Added
