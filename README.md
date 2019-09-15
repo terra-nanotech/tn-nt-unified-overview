@@ -1,7 +1,7 @@
 # TN-NT Unified Overview
 
 ## Installation
-- Download Overview from [here](https://github.com/terra-nanotech/tn-nt-unified-overview/archive/master.zip)
+- Download Overview from [here](https://github.com/terra-nanotech/tn-nt-unified-overview/releases/latest)
 - Unzip it
 - Move ``tn-nt-unified-overview.yaml`` to your EVE overview directory
     - EVE Overview directory: c:\users\«username»\documents\EVE\Overview
