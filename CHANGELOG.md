@@ -1,5 +1,9 @@
 # Changelog
 
+## 2019-11-30
+### Added
+- Abyssal Traces to more presets
+
 ## 2019-09-16
 ### Added
 - Ores from Triglavian PvE site (Conduits) added to appropriate preset
