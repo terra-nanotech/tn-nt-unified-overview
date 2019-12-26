@@ -3,6 +3,7 @@ backgroundOrder:
 - 44
 - 11
 - 12
+- 66
 - 14
 - 15
 - 16
@@ -39,6 +40,7 @@ backgroundStates:
 - 50
 - 51
 - 52
+- 66
 columnOrder:
 - ICON
 - TAG
@@ -61,6 +63,7 @@ flagOrder:
 - 18
 - 11
 - 12
+- 66
 - 14
 - 15
 - 16
@@ -92,6 +95,7 @@ flagStates:
 - 48
 - 49
 - 52
+- 66
 overviewColumns:
 - ALLIANCE
 - ANGULARVELOCITY
@@ -10627,8 +10631,6 @@ tabSetup:
       - '<color=0xFFFFFF66>✥ Target: Fighters</color>'
 userSettings:
 - - applyToOtherObjects
-  - true
-- - overviewBroadcastsToTop
   - true
 - - targetCrosshair
   - false

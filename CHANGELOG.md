@@ -1,5 +1,9 @@
 # Changelog
 
+## 2019-12-26
+### Changed
+- Behavior of ``Pilot is in my Non Player Corp``
+
 ## 2019-11-30
 ### Added
 - Abyssal Traces to more presets
