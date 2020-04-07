@@ -1762,6 +1762,7 @@ presets:
         - 2017
         - 2020
         - 4028
+        - 4053
 - - <color=0xFFFFFFFF>✈ Travel (+Ship -Sta)</color>
   - - - alwaysShownStates
       - []
@@ -2637,6 +2638,7 @@ presets:
         - 2017
         - 2020
         - 4028
+        - 4053
 - - '<color=0xFFFFFF66>✥ Target: Interdictors</color>'
   - - - filteredStates
       - - 11
@@ -3298,6 +3300,7 @@ presets:
         - 2017
         - 2020
         - 4028
+        - 4053
 - - '<color=0xFFFD96CF>※ --- D-Scan: All</color>'
   - - - alwaysShownStates
       - []
@@ -3430,6 +3433,7 @@ presets:
         - 2016
         - 2017
         - 4028
+        - 4053
 - - '<color=0xFFFFFF66>✥ Target: Interdictor / Heavy Interdictor</color>'
   - - - filteredStates
       - - 11
@@ -3942,6 +3946,7 @@ presets:
         - 2017
         - 2020
         - 4028
+        - 4053
 - - '<color=0xFFFF6666>✜ PvX: Mining - All</color>'
   - - - alwaysShownStates
       - []
@@ -4404,6 +4409,7 @@ presets:
         - 4029
         - 4030
         - 4031
+        - 4053
 - - '<color=0xFFFFFF66>✥ Target: All Caps</color>'
   - - - alwaysShownStates
       - []
@@ -6343,6 +6349,7 @@ presets:
         - 2017
         - 2020
         - 4028
+        - 4053
 - - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel -Mods)</color>'
   - - - alwaysShownStates
       - []
@@ -6819,6 +6826,7 @@ presets:
         - 2017
         - 2020
         - 4028
+        - 4053
 - - '<color=0xFFFFFF66>✥ Target: Frigates / Destroyer</color>'
   - - - alwaysShownStates
       - []
@@ -7288,6 +7296,7 @@ presets:
         - 2017
         - 2020
         - 4028
+        - 4053
 - - '<color=0xFF66CCFF>✪ Friendly: Supers / Titans</color>'
   - - - alwaysShownStates
       - - 11
@@ -8349,6 +8358,7 @@ presets:
         - 2017
         - 2020
         - 4028
+        - 4053
 - - <color=0xFFFF6666>✜ = Structures</color>
   - - - alwaysShownStates
       - []
@@ -9507,6 +9517,7 @@ presets:
         - 2017
         - 2020
         - 4028
+        - 4053
 - - '<color=0xFFFF6666>✜ --- PvX: Basic (+Neut -NPC)</color>'
   - - - alwaysShownStates
       - []

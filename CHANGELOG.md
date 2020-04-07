@@ -1,5 +1,9 @@
 # Changelog
 
+## 2020-04-07
+### Added
+- Irregular Capsule (The Hunt Event) to the appropriate presets
+
 ## 2019-12-26
 ### Changed
 - Behavior of ``Pilot is in my Non Player Corp``
