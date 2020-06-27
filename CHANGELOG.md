@@ -1,5 +1,9 @@
 # Changelog
 
+## 2020-06-27
+### Added
+- Destructible Effect Beacon (EDENCOM Cyno Jammer) to appropriate presets
+
 ## 2020-04-07
 ### Added
 - Irregular Capsule (The Hunt Event) to the appropriate presets
