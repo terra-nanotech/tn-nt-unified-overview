@@ -366,6 +366,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel +Mods)</color>'
   - - - alwaysShownStates
       - []
@@ -774,6 +775,7 @@ presets:
         - 4736
         - 4744
         - 4745
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: Command Ships / Strategic Cruiser</color>'
   - - - alwaysShownStates
       - []
@@ -792,6 +794,7 @@ presets:
         - 863
         - 864
         - 963
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: Supers / Titans</color>'
   - - - filteredStates
       - - 11
@@ -1578,6 +1581,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '⌘ Brackets: Combat / Targets / Friendly (+Dro)'
   - - - alwaysShownStates
       - []
@@ -1999,6 +2003,7 @@ presets:
         - 1997
         - 4594
         - 4810
+        - 4902
 - - '<color=0xFFFF6666>✜ = CovOps: Collidables</color>'
   - - - alwaysShownStates
       - []
@@ -2518,6 +2523,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: Antibombers (!)</color>'
   - - - filteredStates
       - - 11
@@ -3027,6 +3033,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - <color=0xFFFFFFFF>✈ Travel (+Ship -Sta)</color>
   - - - alwaysShownStates
       - []
@@ -3255,6 +3262,7 @@ presets:
         - 4028
         - 4093
         - 4594
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: Titans</color>'
   - - - filteredStates
       - - 11
@@ -3896,6 +3904,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: Interdictors</color>'
   - - - filteredStates
       - - 11
@@ -4197,6 +4206,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFD96CF>※ --- D-Scan: All</color>'
   - - - alwaysShownStates
       - []
@@ -4349,6 +4359,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: Interdictor / Heavy Interdictor</color>'
   - - - filteredStates
       - - 11
@@ -4712,6 +4723,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFF6666>✜ PvX: Mining - All</color>'
   - - - alwaysShownStates
       - []
@@ -5192,6 +5204,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: All Caps</color>'
   - - - alwaysShownStates
       - []
@@ -5356,6 +5369,7 @@ presets:
         - 2020
         - 4107
         - 4594
+        - 4902
 - - '⌘ Brackets: Warpout (!)'
   - - - alwaysShownStates
       - []
@@ -5821,6 +5835,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '⌘ Brackets: Travel'
   - - - alwaysShownStates
       - []
@@ -6083,6 +6098,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - <color=0xFFFF6666>✜ = NPSI</color>
   - - - alwaysShownStates
       - []
@@ -6344,6 +6360,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFF6666>✜ PvX: Exploring</color>'
   - - - alwaysShownStates
       - []
@@ -6667,6 +6684,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFF6666>✜ PvX: Planetary Interaction</color>'
   - - - alwaysShownStates
       - []
@@ -6948,6 +6966,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFF6666>✜ PvX: Mission Filter (+LCO +LCS)</color>'
   - - - alwaysShownStates
       - []
@@ -7395,6 +7414,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: Frigates / Destroyer</color>'
   - - - alwaysShownStates
       - []
@@ -7882,6 +7902,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFF66CCFF>✪ Friendly: Supers / Titans</color>'
   - - - alwaysShownStates
       - - 11
@@ -8193,6 +8214,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFD96CF>※ D-Scan: Ships (Defensive)</color>'
   - - - alwaysShownStates
       - []
@@ -8259,6 +8281,7 @@ presets:
         - 1657
         - 1972
         - 4594
+        - 4902
 - - '<color=0xFFFF6666>✜ PvX: Salvage / Loot</color>'
   - - - alwaysShownStates
       - []
@@ -8713,6 +8736,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - <color=0xFFFF6666>✜ = Structures</color>
   - - - alwaysShownStates
       - []
@@ -9568,6 +9592,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFF6666>✜ --- PvX: Basic (+Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -9694,6 +9719,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFF66CCFF>✪ = Friendly: Fleet</color>'
   - - - alwaysShownStates
       - - 11
@@ -9786,6 +9812,7 @@ presets:
         - 1548
         - 1704
         - 4594
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: Cruisers</color>'
   - - - alwaysShownStates
       - []
@@ -9902,6 +9929,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFF66CCFF>✪ --- Friendly: All</color>'
   - - - alwaysShownStates
       - - 11
@@ -10013,6 +10041,7 @@ presets:
         - 1704
         - 1972
         - 4594
+        - 4902
 - - '<color=0xFFFF6666>✜ PvX: Faction Warfare</color>'
   - - - alwaysShownStates
       - []
@@ -10383,6 +10412,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFFFFFF66>✥ Target: Battleships</color>'
   - - - filteredStates
       - - 11
@@ -10521,6 +10551,7 @@ presets:
         - 1704
         - 1972
         - 4594
+        - 4902
 - - '<color=0xFFFF6666>✜ PvX: Ratting</color>'
   - - - alwaysShownStates
       - []
@@ -10966,6 +10997,7 @@ presets:
         - 4744
         - 4745
         - 4810
+        - 4902
 - - '<color=0xFF66FF66>➲ Extra: Podsaver (!)</color>'
   - - - alwaysShownStates
       - []
