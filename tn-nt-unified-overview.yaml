@@ -2933,15 +2933,13 @@ presets:
         - 1312
         - 1312
         - 1548
-        - 2017
         - 4093
         - 4107
         - 4137
         - 4575
-        - 4736
-        - 4744
         - 4745
         - 4810
+        - 4913
 - - '<color=0xFFFFFF66>✥ Target: Carriers</color>'
   - - - alwaysShownStates
       - []
@@ -11555,7 +11553,6 @@ tabSetup:
         - ICON
         - NAME
         - ALLIANCE
-        - TAG
 userSettings:
 - - applyToOtherObjects
   - true
